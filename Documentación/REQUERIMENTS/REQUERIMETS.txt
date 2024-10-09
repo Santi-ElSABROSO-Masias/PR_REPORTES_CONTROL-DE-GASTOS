@@ -1,0 +1,21 @@
+# Requisitos Funcionales
+
+1. **Autenticación de Usuario**
+   - El sistema debe permitir que los usuarios se registren e inicien sesión usando un sistema de autenticación seguro.
+
+2. **Ingreso de Reportes de Gastos**
+   - El usuario podrá ingresar los gastos por concepto de alimentos, combustible, hospedaje, etc.
+
+3. **Acumulación Automática de Costos**
+   - El sistema sumará los montos ingresados y mostrará el total.
+
+4. **Edición de Datos por el Usuario**
+   - Los usuarios podrán editar únicamente sus propios reportes de gastos.
+
+# Requisitos No Funcionales
+
+1. **Seguridad**
+   - Los datos almacenados deben estar protegidos con encriptación.
+   
+2. **Escalabilidad**
+   - El sistema debe ser escalable para manejar un creciente número de usuarios.

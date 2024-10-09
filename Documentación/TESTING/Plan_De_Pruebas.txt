@@ -1,0 +1,15 @@
+# Plan de Pruebas
+
+## 1. Objetivo
+Probar la funcionalidad principal de la aplicación de reporte de gastos, asegurando que cada módulo funcione correctamente.
+
+## 2. Casos de Prueba
+### Caso 1: Autenticación de Usuario
+- **Descripción**: El sistema debe permitir que un usuario se autentique.
+- **Entrada**: Email y contraseña válidos.
+- **Resultado esperado**: Acceso permitido al sistema.
+  
+### Caso 2: Ingreso de Reporte de Gastos
+- **Descripción**: El usuario debe poder ingresar un reporte de gastos.
+- **Entrada**: Datos válidos para todos los campos obligatorios.
+- **Resultado esperado**: El reporte se almacena en la base de datos.

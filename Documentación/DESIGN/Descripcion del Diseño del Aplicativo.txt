@@ -1,0 +1,11 @@
+# Diseño de la Interfaz de Usuario
+
+## 1. Principios de Diseño
+El diseño de la interfaz está basado en la simplicidad y la usabilidad, garantizando que los usuarios técnicos puedan ingresar sus reportes sin complicaciones.
+
+## 2. Pantallas Principales
+- **Pantalla de Inicio de Sesión**: El usuario debe ingresar sus credenciales.
+- **Pantalla de Reportes**: Un formulario donde los usuarios ingresan los gastos.
+  
+## 3. Capturas de Pantalla
+- ![Pantalla principal](./screenshot1.png)

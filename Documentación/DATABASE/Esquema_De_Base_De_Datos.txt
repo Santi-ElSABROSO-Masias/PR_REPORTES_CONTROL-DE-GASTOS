@@ -1,0 +1,16 @@
+# Esquema de la Base de Datos
+
+## Tabla: ReporteDeGastos
+| Columna        | Tipo      | Descripción                      |
+| -------------- | --------- | -------------------------------- |
+| ID             | INTEGER   | Identificador único              |
+| UserID         | INTEGER   | Relacionado con el usuario        |
+| Fecha          | DATE      | Fecha del gasto                  |
+| Concepto       | TEXT      | Concepto del gasto               |
+| MontoTotal     | DECIMAL   | Total acumulado                  |
+
+## Tabla: Usuarios
+| Columna        | Tipo      | Descripción                      |
+| -------------- | --------- | -------------------------------- |
+| UserID         | INTEGER   | Identificador del usuario         |
+| Nombre         | TEXT      | Nombre del usuario               |

@@ -1,0 +1,16 @@
+# Arquitectura de la Aplicación
+
+## 1. Visión General
+La aplicación seguirá una arquitectura de cliente-servidor, donde el cliente será una aplicación móvil desarrollada en Android Studio y el servidor manejará la autenticación y almacenamiento en la base de datos.
+
+## 2. Componentes Principales
+
+- **Frontend (Cliente Móvil)**
+  - Desarrollado con Android Studio.
+  - Se utiliza SQLite para almacenamiento local.
+  
+- **Backend**
+  - La base de datos será gestionada localmente mediante SQLite, con soporte para Firebase en futuras versiones.
+
+## 3. Diagrama de Arquitectura
+![Diagrama de arquitectura](./architecture-diagram.png)

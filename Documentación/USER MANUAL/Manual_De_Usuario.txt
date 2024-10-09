@@ -1,0 +1,13 @@
+# Manual del Usuario
+
+## 1. Inicio de Sesión
+- Abra la aplicación y use su nombre de usuario y contraseña para iniciar sesión.
+
+## 2. Ingresar Reporte de Gastos
+- Seleccione "Nuevo Reporte".
+- Complete el formulario con los detalles del gasto.
+- Pulse "Guardar" para almacenar el reporte.
+
+## 3. Editar Reportes
+- En el menú de "Mis Reportes", seleccione el reporte que desea editar.
+- Modifique los campos permitidos y pulse "Actualizar".
